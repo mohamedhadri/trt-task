@@ -1,0 +1,207 @@
+{
+    "metadata": {
+        "siteUrl": "https://trtworld.com",
+        "pageTitle": "TRT World - Breaking News, Live Coverage, Opinions and Videos",
+        "siteLanguage": "en_US",
+        "pageDescription": "Breaking news, live coverage, opinions, features, in-depth analysis and videos from TRT World, 24/7.",
+        "pageImage": "https://cdn-i.pr.trt.com.tr/trtworld/16275646.png"
+    },
+    "latest": [
+        {
+            "id": 18168123,
+            "type": "article",
+            "title": "Live blog: Aid 'not getting to people' in Gaza, 'children starving' — UN",
+            "description": "Israel's bombing in Gaza has killed 36,224 Palestinian, majority of them women, children, and infants, with more than 81,777 wounded during the 238-day war while10,000+ people are feared buried beneath the rubble of their homes.",
+            "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/19997541_0-245-5760-3243.jpeg",
+            "overlayImageUrl": "",
+            "thumbnailSquare": "",
+            "categories": [
+                {
+                    "contentId": 12682254,
+                    "title": "Home Page"
+                },
+                {
+                    "contentId": 12683241,
+                    "title": "Middle East"
+                }
+            ],
+            "metaTitle": "",
+            "metaDescription": "",
+            "showName": "",
+            "showSlug": "",
+            "path": "/middle-east/live-blog-aid-not-getting-to-people-in-gaza-children-starving-un-18168123",
+            "publishedDate": "2024-05-31T11:41:08.549Z",
+            "authors": [],
+            "showAuthor": false,
+            "showByLine": false,
+            "showSparkbox": false
+        },
+        {
+            "id": 18168288,
+            "type": "article",
+            "title": "Sudan at 'imminent risk of famine', UN warns",
+            "description": "UN agencies warn that the people of Sudan, caught between the crossfire of a war between the army and paramilitary, are at risk of \"imminent\" famine.",
+            "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/19998378_0-166-5472-3081.jpeg",
+            "overlayImageUrl": "",
+            "thumbnailSquare": "",
+            "categories": [
+                {
+                    "contentId": 12682254,
+                    "title": "Home Page"
+                },
+                {
+                    "contentId": 12682877,
+                    "title": "Africa"
+                }
+            ],
+            "metaTitle": "",
+            "metaDescription": "",
+            "showName": "",
+            "showSlug": "",
+            "path": "/africa/sudan-at-imminent-risk-of-famine-un-warns-18168288",
+            "publishedDate": "2024-05-31T11:09:20.941Z",
+            "authors": [],
+            "showAuthor": false,
+            "showByLine": false,
+            "showSparkbox": false
+        },
+        {
+            "id": 18168257,
+            "type": "article",
+            "title": "South Africa edges toward coalition government as ANC vote share plummets",
+            "description": "The ANC is still leading the count and has the most votes with the main opposition Democratic Alliance on around 24 percent.",
+            "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/19997804_0-465-4500-2535.jpeg",
+            "overlayImageUrl": "",
+            "thumbnailSquare": "",
+            "categories": [
+                {
+                    "contentId": 12682254,
+                    "title": "Home Page"
+                },
+                {
+                    "contentId": 12682877,
+                    "title": "Africa"
+                }
+            ],
+            "metaTitle": "",
+            "metaDescription": "",
+            "showName": "",
+            "showSlug": "",
+            "path": "/africa/south-africa-edges-toward-coalition-government-as-anc-vote-share-plummets-18168257",
+            "publishedDate": "2024-05-31T10:41:19.534Z",
+            "authors": [],
+            "showAuthor": false,
+            "showByLine": false,
+            "showSparkbox": false
+        },
+        {
+            "id": 18168179,
+            "type": "article",
+            "title": "José Mourinho reportedly signs with Türkiye’s Fenerbahce",
+            "description": "The potential arrival of José Mourinho, a coach with a glittering resume that includes stints at top clubs such as Chelsea, Inter Milan, Real Madrid and Manchester United, is seen as a game-changing move that could revive Fenerbahce’s fortunes.",
+            "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/16472430_0-0-2833-1595.jpeg",
+            "overlayImageUrl": "",
+            "thumbnailSquare": "",
+            "categories": [
+                {
+                    "contentId": 12682254,
+                    "title": "Home Page"
+                },
+                {
+                    "contentId": 12683239,
+                    "title": "Turkiye"
+                }
+            ],
+            "metaTitle": "",
+            "metaDescription": "",
+            "showName": "",
+            "showSlug": "",
+            "path": "/turkiye/jose-mourinho-reportedly-signs-with-turkiyes-fenerbahce-18168179",
+            "publishedDate": "2024-05-31T10:29:50.475Z",
+            "authors": [],
+            "showAuthor": false,
+            "showByLine": false,
+            "showSparkbox": false
+        }
+    ],
+    "headline": [
+        {
+            "id": 13155179,
+            "type": "article",
+            "title": "Türkiye's elections: Polls close in some European countries, US",
+            "description": "Over 1.6 million Turkish citizens living abroad have cast their votes for Türkiye's upcoming presidential and parliamentary elections.",
+            "mainImageUrl": "https://cdn-i.pr.trt.com.tr/trtworld/16358427_0-57-8256-4649.jpeg",
+            "overlayImageUrl": "",
+            "thumbnailSquare": "",
+            "categories": [
+                {
+                    "contentId": 12682254,
+                    "title": "Home Page"
+                },
+                {
+                    "contentId": 12683239,
+                    "title": "Turkiye"
+                }
+            ],
+            "metaTitle": "",
+            "metaDescription": "",
+            "showName": "",
+            "showSlug": "",
+            "path": "/turkiye/turkiyes-elections-polls-close-in-some-european-countries-us-13155179",
+            "publishedDate": "2023-05-08T06:12:19.102Z",
+            "authors": [
+                {
+                    "userName": "Sara.SLEIMAN",
+                    "firstName": "Sara",
+                    "lastName": "SLEIMAN",
+                    "path": "/author/sara-sleiman"
+                }
+            ],
+            "showAuthor": false,
+            "showByLine": false,
+            "showSparkbox": false
+        }
+    ],
+    "news": [
+        {
+            "id": 12977396,
+            "type": "article",
+            "title": "South Africa's Ramaposa rows back from pledge to quit ICC",
+            "description": "South African President Cyril Ramaphosa a day earlier said his ANC party had resolved that his country should quit the ICC, which last month issued an arrest warrant against Russian President Vladimir Putin.",
+            "mainImageUrl": "https://cdn-i.pr.trt.com.tr/trtworld/16275004_0-183-4498-2533.jpeg",
+            "overlayImageUrl": "",
+            "thumbnailSquare": "",
+            "categories": [
+                {
+                    "contentId": 12682254,
+                    "title": "Home Page"
+                },
+                {
+                    "contentId": 12682877,
+                    "title": "Africa"
+                },
+                {
+                    "contentId": 12682883,
+                    "title": "Europe"
+                }
+            ],
+            "metaTitle": "",
+            "metaDescription": "",
+            "showName": "",
+            "showSlug": "",
+            "path": "/africa/south-africas-ramaposa-rows-back-from-pledge-to-quit-icc-12977396",
+            "publishedDate": "2023-04-26T10:25:42.760Z",
+            "authors": [
+                {
+                    "userName": "meryem.demirhan",
+                    "firstName": "Meryem",
+                    "lastName": "Demirhan",
+                    "path": "/author/meryem-demirhan"
+                }
+            ],
+            "showAuthor": false,
+            "showByLine": false,
+            "showSparkbox": false
+        }
+    ]
+}
