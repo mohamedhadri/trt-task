@@ -19,7 +19,7 @@ const HomePage = () => {
     </Head>
     <div className="container mx-auto font-sans">
     <HeroSection/>
-    <div className="grid grid-cols-1  lg:grid-cols-[1fr,calc(1px+2rem),288px] h-screen">
+    <div className="grid grid-cols-1  lg:grid-cols-[1fr,calc(1px+2rem),288px] h-screen mt-6">
       <div className="bg-white">
         <div className="flex flex-col  ">
       {latest.map(article => (

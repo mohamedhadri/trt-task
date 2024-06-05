@@ -34,8 +34,8 @@ const articles = [
 
 export default function Carousel() {
   return (
-    <section className=" w-full bg-[#EDF2F7] py-12">
-      <div className=" w-full mx-auto px-4">
+    <section className=" bg-[#EDF2F7] py-12 mt-8">
+      <div className="container mx-auto px-4">
         <div className="flex justify-between items-center mb-8">
           <h2 className="text-2xl font-bold text-[#005D99]">US Elections 2020</h2>
         </div>
