@@ -9,7 +9,7 @@ interface MetaProps {
 }
 
 const Meta = ({ siteUrl, pageTitle, siteLanguage, pageDescription, pageImage }: MetaProps) => (
-  <Head>
+  <>
     <title>{pageTitle}</title>
     <meta name="description" content={pageDescription} />
     <meta property="og:url" content={siteUrl} />
@@ -21,7 +21,7 @@ const Meta = ({ siteUrl, pageTitle, siteLanguage, pageDescription, pageImage }: 
     <meta name="twitter:title" content={pageTitle} />
     <meta name="twitter:description" content={pageDescription} />
     <meta name="twitter:image" content={pageImage} />
-  </Head>
+  </>
 );
 
 export default Meta;

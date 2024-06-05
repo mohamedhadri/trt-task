@@ -1,6 +1,7 @@
 "use client";
 import { useState } from 'react';
 import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline';
+import Image from 'next/image';
 
 export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
@@ -12,7 +13,7 @@ export default function Navbar() {
   return (
     <nav className="bg-[#005D99] py-4 px-6 flex items-center justify-between">
       <div className="flex items-center md:mr-auto">
-      <img src="/logo.png" alt="Logo" className="h-8 ml-4 md:ml-0" />
+      <Image src="/assets/logo.png" alt="Logo" className="" width={132} height={16} />
         
         
       </div>

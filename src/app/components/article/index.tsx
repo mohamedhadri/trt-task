@@ -33,12 +33,7 @@ const Article = ({ title, description, mainImageUrl, path, categories, published
 
   return (
     <div>
-      {/* <h2>{title}</h2>
-      <p>{description}</p>
-      <Image src={mainImageUrl} alt={title} width={424} height={240} />
-      <a href={path}>Read more</a> */}
-
-<div className="flex flex-col lg:flex-row items-start">
+        <div className="flex flex-col lg:flex-row items-start border-b border-b-[#E1E6EB] p-6 pl-0">
   <div className="lg:flex lg:items-start mb-4 lg:mb-0 lg:mr-4">
     <div className="w-20 mr-4 lg:w-[424px] lg:flex-shrink-0">
       <Image
@@ -65,7 +60,7 @@ const Article = ({ title, description, mainImageUrl, path, categories, published
       </div>
   </div>
 
-</div>
+        </div>
     </div>
   );
 };
