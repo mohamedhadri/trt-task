@@ -42,7 +42,7 @@ export default function Carousel() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
           {articles.map((article) => (
             <div key={article.id} className="bg-white rounded-lg shadow-md overflow-hidden">
-              <Link href={article.link}>
+              <Link href='../article'>
                 <Image
                   src={article.imageUrl}
                   alt={article.title}

@@ -32,7 +32,7 @@ const Headline = ({ title, description, mainImageUrl, path }: HeadlineProps) => 
     <h2>{title}</h2>
     <p>{description}</p>
     <Image src={mainImageUrl} alt={title} width={424} height={240} />
-    <a href={path}>Read more</a>
+    {/* <a href={path}>Read more</a> */}
   </div>
 );
 
