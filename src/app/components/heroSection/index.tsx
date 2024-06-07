@@ -23,14 +23,16 @@ export default function HeroSection() {
             <div className="flex flex-col md:flex-row gap-12">
         <div className="w-full lg:w-[432px] xl:w-[552px] 2xl:w-[648px]">
             <div className="relative">
-            <Image
-            src="/assets/thumb.png"
-            alt="Image Description"
-            layout='responsive'
-            width={100}
-            height={100}
-            className="w-full"
-            />
+                <a href="/article">
+                <Image
+                src="/assets/thumb.png"
+                alt="Image Description"
+                layout='responsive'
+                width={100}
+                height={100}
+                className="w-full"
+                />
+                </a>
             <h3 style={trtFont} className="absolute top-4 left-4 bg-[#005D99] text-white px-4 py-2 text-sm	font-bold tracking-wide uppercase">
                 Azerbaijan-Armenia dispute
             </h3>
