@@ -11,7 +11,6 @@ interface HeadlinesNewsProps {
 const HeadlinesNews: React.FC<HeadlinesNewsProps> = ({ headline, news }) => {
   return (
     <div>
-      <h1>Headlines</h1>
       {headline.map((item) => (
         <Headline
           key={item.id}
@@ -36,7 +35,6 @@ const HeadlinesNews: React.FC<HeadlinesNewsProps> = ({ headline, news }) => {
         />
       ))}
 
-<h1>News</h1>
       {news.map((item) => (
         <div key={item.id}>
           <h2>{item.title}</h2>
